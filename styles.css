@@ -1,0 +1,33 @@
+body {
+  background-color: hsl(40, 50%, 30%);
+}
+img {
+  border-radius: 20px;
+  height: 50vh;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+h2 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+p {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 300;
+  font-style: bold;
+}
+
+ul {
+  font-family: "Courier New", Courier, monospace;
+}
+
+button {
+  color: hsl(40, 50%, 30%);
+  background-color: hsl(40, 50%, 100%);
+  font-family: "Courier New", Courier, monospace;
+  font-size: 2em;
+  border-radius: 12px;
+}
